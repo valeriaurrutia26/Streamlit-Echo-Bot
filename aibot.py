@@ -58,7 +58,7 @@ def response_generator():
 
 
 
-st.title("AI Friend")
+st.title("Valeria Urrutia-AI Friend")
 # Initialize chat history
 if "messages" not in st.session_state:
   st.session_state.messages = []
