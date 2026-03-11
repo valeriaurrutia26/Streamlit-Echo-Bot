@@ -4,7 +4,7 @@ import numpy as np
 with st.chat_message("user"):
   st.write("Hello!!")
 
-st.title("Echo Bot")
+st.title("Valeria Urrutia-Echo Bot")
 
 with st.chat_message("assistant"):
   st.image("DashboardValeria.png", caption="CIT 144 – Demographics Data Visualization")
