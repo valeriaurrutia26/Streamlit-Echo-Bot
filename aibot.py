@@ -65,7 +65,7 @@ if "messages" not in st.session_state:
 
 # Show the dashboard image once at the top
 with st.chat_message("assistant"):
-    st.image(“DashboardValeria.png", caption="CIT 144 – Demographics Data Visualization")
+    st.image("DashboardValeria.png", caption="CIT 144 – Demographics Data Visualization")
 
   
 # Display chat messages from history on app rerun
