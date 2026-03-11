@@ -7,8 +7,7 @@ st.write("Hello!!")
 st.title("Echo Bot")
 
 with st.chat_message("assistant"):
-st.image("DashboardValeria.png", caption="CIT 144 – Demographics Data
-Visualization")
+st.image("DashboardValeria.png", caption="CIT 144 – Demographics Data Visualization")
 
 # Initialize chat history
 if "messages" not in st.session_state:
